@@ -17,6 +17,7 @@
 }
 .article-container {
     padding-bottom: 10rem;
+    width:100%;
 }
 .article-back {
     text-decoration: underline;
